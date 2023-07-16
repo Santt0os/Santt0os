@@ -1,7 +1,7 @@
 👋 Hello, I'm @Santt0os
 - 👀 I am interested in learning programming
 - 🌱 I'm currently learning html
-- 💞️ I'm looking to collaborate on for me to help
+- 💞️ I'm looking to collaborate on for help me
 - 📫 How to reach me emanuelsanttoos@outlook.com
 
 <!---
